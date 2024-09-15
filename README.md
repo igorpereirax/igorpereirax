@@ -1,5 +1,10 @@
-## Hi there 👋
+# Olá, me chamo Igor Pereira, sou técnico em Desenvolvimento de Sistemas! 
+## Bem vindo ao meu perfil GitHub 👋
 
+- 🔭 Atualmente estou trabalhando em projetos contemporâneos.
+- 🌱 Atualmente estou aprendendo C e PHP.
+- 👯 Estou procurando colaborar no desenvolvimento front-end.
+- 📫 Como entrar em contato comigo: igorpereiraedsantos@gmail.com
 <!--
 **igorpereirax/igorpereirax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
