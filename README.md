@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em projetos contemporâneos.
-- 🌱 Tenho base em HTML, CSS E JAVASCRIPT e atualmente estou aprendendo C e PHP.
+- 🌱 Tenho base em HTML, CSS, C# E JAVASCRIPT e atualmente estou aprendendo C e PHP.
 - 👯 Estou procurando colaborar no desenvolvimento front-end.
 - 📫 Como entrar em contato comigo: igorpereiraedsantos@gmail.com
 <!--
